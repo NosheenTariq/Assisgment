@@ -42,6 +42,8 @@ Cons([5, 6, 7, 8, 9, 9]) ➞ false
 
         {
 
+
+
             Console.WriteLine(Checking(new int[] { 5, 1, 4, 3, 2 }));
             Console.WriteLine(Checking(new int[] { 5, 1, 4, 3, 2, 8 }));
             Console.WriteLine(Checking(new int[] { 3, 2, 1, 5, 4 }));
